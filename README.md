@@ -41,7 +41,8 @@ HOME PAGE:
 
 PATIENT:
 
-![188310333-771f1cf8-54cf-4a48-be04-35e1f7ef8cf9](https://github.com/Sufiyanahmad7/Healthcare_app/assets/121075918/95b918f1-be11-40b7-b4e4-96210cb4e110)
+![188310247-396882f0-6661-4c95-bd88-c64cf558f5b1](https://github.com/Sufiyanahmad7/Healthcare_app/assets/121075918/f42b97bf-82da-408a-88d4-02b3d11ab354)
+
 
 DOCTOR:
 
